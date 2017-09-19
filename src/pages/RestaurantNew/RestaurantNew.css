@@ -1,0 +1,13 @@
+.restaurant-new {
+  max-width: 700px;
+  margin: auto;
+}
+
+.restaurant-new .title {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.restaurant-new .timeslot-options {
+  margin-bottom: 15px;
+}

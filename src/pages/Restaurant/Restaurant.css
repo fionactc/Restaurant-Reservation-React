@@ -1,0 +1,92 @@
+.restaurant {
+  max-width: 700px;
+  margin: auto;
+  margin-bottom: 80px;
+}
+
+.restaurant .title {
+  padding-left: 0;
+}
+
+.restaurant .address {
+  color: gray;
+  padding-bottom: 20px;
+}
+
+.restaurant .dv-star-rating i{
+  font-size: 1.4em;
+}
+
+.restaurant .rating-count {
+  vertical-align: top;
+  padding-left: 1em;
+  font-size: 1.4em;
+  color: gray;
+}
+
+.restaurant .book {
+  padding-top: 15px;
+  border-radius: 5px;
+  padding: 30px;
+  background: #e6e6e6;
+}
+
+.restaurant .book-title {
+  font-size: 1.2em;
+  padding-bottom: 20px;
+}
+
+.restaurant .reserve-label {
+  text-align: left;
+}
+
+.restaurant button {
+  margin-left: 15px;
+}
+
+.restaurant select {
+  display: inline;
+  width: 50%;
+}
+
+.reviews {
+  margin-top: 30px;
+}
+
+.reviews .review-star {
+  margin-left: 15px;
+}
+
+.review-label {
+  padding-left: 15px;
+  color: gray;
+  font-size: 1.4em;
+  vertical-align: top;
+}
+
+.reviews .media {
+  padding: 10px 0;
+}
+
+.reviews button {
+  margin-top: 10px;
+}
+
+.reviews .review-rating {
+  color: gray;
+  padding-bottom: 10px;
+}
+
+.reviews .review-content {
+  text-align: justify;
+}
+
+.reviews .btn-success {
+  margin-top: 20px;
+}
+
+.reviews .glyphicon-user {
+  font-size: 3em;
+  padding-right: 25px;
+  color: gray;
+}

@@ -1,0 +1,13 @@
+.customer-account {
+  max-width: 900px;
+  margin: auto;
+}
+
+.customer-account h3 {
+  margin-bottom: 30px;
+  display: block;
+}
+
+.customer-account ul {
+  margin-bottom: 20px;
+}

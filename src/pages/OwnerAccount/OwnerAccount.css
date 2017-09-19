@@ -1,0 +1,13 @@
+.owner-account {
+  max-width: 900px;
+  margin: auto;
+}
+
+.owner-account h3 {
+  margin-bottom: 30px;
+  display: block;
+}
+
+.owner-account ul {
+  margin-bottom: 20px;
+}

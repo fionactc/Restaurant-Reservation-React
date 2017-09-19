@@ -1,0 +1,13 @@
+.login {
+  padding: 20px;
+}
+
+.login h1 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.login form {
+  width: 40%;
+  margin: auto;
+}
